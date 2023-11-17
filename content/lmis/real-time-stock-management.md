@@ -3,7 +3,7 @@
 
 ![](media/image95.png)
 
-## 1 OVERVIEW OF THE DHIS2 REAL-TIME STOCK MANAGEMENT TOOL
+## OVERVIEW OF THE DHIS2 REAL-TIME STOCK MANAGEMENT TOOL
 
 This entire document describes the expected system behaviour, functionality and management and neither the current processes or systems nor the change from the "as is" to the "to be" state.
 
